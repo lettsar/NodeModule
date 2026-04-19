@@ -1,0 +1,17 @@
+{
+  "files.associations": {
+    "*.js": "javascript"
+  },
+  "javascript.suggest.enabled": true,
+  "javascript.validate.enable": true,
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": false,
+    "strings": true
+  },
+  "editor.suggestOnTriggerCharacters": true,
+  "editor.wordBasedSuggestions": "matchingDocuments",
+  "editor.tabCompletion": "on",
+  "editor.snippetSuggestions": "inline",
+  "typescript.tsserver.maxTsServerMemory": 4096
+}
